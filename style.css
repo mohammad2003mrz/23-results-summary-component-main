@@ -10,3 +10,9 @@
   --color-Persain-blue: hsla(241, 72%, 46%, 0);
   --color-White: hsl(0, 0%, 100%);
 }
+body {
+  font-family: "Hanken Grotesk", sans-serif;
+}
+main {
+  color: var(--color-White);
+}
