@@ -46,3 +46,7 @@ main {
     var(--color-Light-royal-blue)
   );
 }
+.box-2 {
+  width: 275px;
+  padding: 24px 16px;
+}
