@@ -85,3 +85,19 @@ h1 {
   font-weight: 300;
   color: hsla(0, 0%, 85%, 0.692);
 }
+.heading-sec {
+  color: hsl(224, 30%, 27%);
+  margin-bottom: 24px;
+}
+.color-red {
+  color: hsl(0, 100%, 67%);
+}
+.color-ora {
+  color: hsl(39, 100%, 56%);
+}
+.color-green {
+  color: hsl(166, 100%, 37%);
+}
+.color-blue {
+  color: hsl(234, 85%, 45%);
+}
