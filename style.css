@@ -50,3 +50,18 @@ main {
   width: 275px;
   padding: 24px 16px;
 }
+.cir {
+  content: "";
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    180deg,
+    var(--color-Violet-blue),
+    var(--color-Persain-blue)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
