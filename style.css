@@ -101,3 +101,38 @@ h1 {
 .color-blue {
   color: hsl(234, 85%, 45%);
 }
+.reg {
+  color: hsl(224, 30%, 27%);
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+}
+.result {
+  color: hsl(224, 30%, 27%);
+  font-weight: 700;
+}
+.op-l {
+  font-weight: 400;
+  color: hsla(224, 30%, 27%, 0.459);
+}
+
+.reg {
+  padding: 12px 12px;
+  border-radius: 12px;
+}
+.reg:not(:last-child) {
+  margin-bottom: 14px;
+}
+.reg-r {
+  background-color: hsla(0, 100%, 67%, 0.123);
+}
+.reg-o {
+  background-color: hsla(39, 100%, 56%, 0.13);
+}
+.reg-g {
+  background-color: hsla(166, 100%, 37%, 0.11);
+}
+.reg-b {
+  background-color: hsla(234, 85%, 45%, 0.13);
+}
