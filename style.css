@@ -65,3 +65,12 @@ main {
   align-items: center;
   flex-direction: column;
 }
+.num-big {
+  font-size: 64px;
+  font-weight: 700;
+}
+.num-small {
+  font-size: 14px;
+  font-weight: 400;
+  color: hsla(0, 0%, 85%, 0.692);
+}
