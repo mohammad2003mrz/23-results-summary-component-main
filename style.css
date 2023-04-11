@@ -16,3 +16,7 @@ body {
 main {
   color: var(--color-White);
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
