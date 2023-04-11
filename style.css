@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root {
+  --color-Light-slate: hsl(252, 100%, 67%);
+  --color-Light-royal-blue: hsl(241, 81%, 54%);
+  --color-Violet-blue: hsla(256, 72%, 46%, 1);
+  --color-Persain-blue: hsla(241, 72%, 46%, 0);
+  --color-White: hsl(0, 0%, 100%);
+}
