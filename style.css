@@ -136,3 +136,9 @@ h1 {
 .reg-b {
   background-color: hsla(234, 85%, 45%, 0.13);
 }
+.head {
+  margin-left: -48px;
+}
+.icon {
+  margin-left: -16px;
+}
